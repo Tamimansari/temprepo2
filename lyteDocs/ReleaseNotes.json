@@ -49,11 +49,18 @@
   "1.0.2": {
     "new.txt": [
       {
+        "msg": "test",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "new.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "17:58:15"
+      },
+      {
         "msg": "vchangedcheck",
         "type_of_commit": "Bug_Fix",
         "fileName": "new.txt",
         "date_of_commit": "2 - 2 - 2024",
-        "time_of_commit": "17:35:23"
+        "time_of_commit": "17:59:05"
       }
     ],
     "new2.txt": [
