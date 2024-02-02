@@ -6,7 +6,23 @@
         "type_of_commit": "Bug_Fix",
         "fileName": "new.txt",
         "date_of_commit": "2 - 2 - 2024",
-        "time_of_commit": "17:24:44"
+        "time_of_commit": "17:29:33"
+      }
+    ],
+    "new2.txt": [
+      {
+        "msg": "temps",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "new2.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "17:29:06"
+      },
+      {
+        "msg": "style changed",
+        "type_of_commit": "Style_changes",
+        "fileName": "new2.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "17:29:41"
       }
     ]
   }
