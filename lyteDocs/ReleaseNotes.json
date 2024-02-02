@@ -45,5 +45,25 @@
         "time_of_commit": "17:32:54"
       }
     ]
+  },
+  "1.0.2": {
+    "new.txt": [
+      {
+        "msg": "vchangedcheck",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "new.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "17:35:23"
+      }
+    ],
+    "new2.txt": [
+      {
+        "msg": "new one",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "new2.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "17:35:24"
+      }
+    ]
   }
 }
