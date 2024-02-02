@@ -70,6 +70,13 @@
         "fileName": "new2.txt",
         "date_of_commit": "2 - 2 - 2024",
         "time_of_commit": "17:35:24"
+      },
+      {
+        "msg": "check2",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "new2.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "18:00:49"
       }
     ],
     "package.json": [
@@ -79,6 +86,15 @@
         "fileName": "package.json",
         "date_of_commit": "2 - 2 - 2024",
         "time_of_commit": "17:36:38"
+      }
+    ],
+    "n1.txt": [
+      {
+        "msg": "checkup",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n1.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "18:00:17"
       }
     ]
   }
