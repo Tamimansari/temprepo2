@@ -77,6 +77,13 @@
         "fileName": "new2.txt",
         "date_of_commit": "2 - 2 - 2024",
         "time_of_commit": "18:00:49"
+      },
+      {
+        "msg": "tets",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "new2.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "18:28:05"
       }
     ],
     "package.json": [
