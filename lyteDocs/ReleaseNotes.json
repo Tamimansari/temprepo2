@@ -1,0 +1,18 @@
+{
+  "unpublishedVersion": {
+    "test-component": [
+      {
+        "msg": "checking msg for group",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n1.txt",
+          "new2.txt",
+          "new6.txt",
+          "n5.txt"
+        ],
+        "date_of_commit": "13 - 3 - 2024",
+        "time_of_commit": "17:36:37"
+      }
+    ]
+  }
+}
