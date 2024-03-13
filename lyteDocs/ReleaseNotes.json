@@ -12,6 +12,13 @@
         ],
         "date_of_commit": "13 - 3 - 2024",
         "time_of_commit": "17:36:37"
+      },
+      {
+        "msg": "new msg for check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n5.txt",
+        "date_of_commit": "13 - 3 - 2024",
+        "time_of_commit": "17:37:16"
       }
     ]
   }
